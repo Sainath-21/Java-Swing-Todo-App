@@ -14,8 +14,8 @@ A simple and clean To-Do List desktop app built with Java Swing.
 
 ##   Run
 
-javac ToDoApp.java
-java ToDoApp
+- javac ToDoApp.java
+- java ToDoApp
 
 ## Learn
 
